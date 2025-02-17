@@ -1,1 +1,2 @@
 Once upon a time, there was a developer.
+Once upon a time, there was a curious developer learning Git.
