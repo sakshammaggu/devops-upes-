@@ -1,3 +1,4 @@
 Once upon a time, there was a developer.
 
 Once upon a time, there was a skilled developer working on Git projects.
+Once upon a time, there was a curious developer learning Git.
